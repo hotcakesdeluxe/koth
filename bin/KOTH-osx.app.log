@@ -1,0 +1,379 @@
+
+LICENSE SYSTEM [2014924 15:1:49] Next license update check is after 2014-09-25T16:54:19
+
+Built from 'release/4.6/release' branch; Version is '4.6.0b18 (c6d68b07d87a) revision 160529'; Using compiler version '160040219'
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, shouldGiveDebuggerChanceToAttach: 0
+Initialize mono
+Mono path[0] = 'C:/Program Files (x86)/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files (x86)/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono path[2] = 'C:/Program Files (x86)/Unity/Editor/Data/UnityScript'
+Mono config path = 'C:/Program Files (x86)/Unity/Editor/Data/Mono/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y
+
+ BATCHMODE ARGUMENTS:
+C:\Program Files (x86)\Unity\Editor\Unity.exe
+-batchmode
+-buildOSXPlayer
+C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-osx.app
+-logFile
+C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-osx.app.log
+-projectPath
+C:\Users\Stephen\Documents\GitHub\koth
+-quit
+-nographics
+Successfully changed project path to: C:\Users\Stephen\Documents\GitHub\koth
+C:/Users/Stephen/Documents/GitHub/koth
+Loading GUID <-> Path mappings ... 0.000929 seconds.
+Loading Asset Database ...  0.002723 seconds
+AssetDatabase consistency checks ...  0.061769 seconds
+Initialize engine version: 4.6.0b18 (c6d68b07d87a)
+Forcing GfxDevice: 4
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.6.0\Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v4.6.0 for Unity v4.6.0
+Setting GUISystem v4.6.0 for Unity v4.6.0b18 to C:/Program Files (x86)/Unity/Editor/Data\UnityExtensions\Unity\GUISystem\4.6.0
+Registering custom dll's ...
+Non platform assembly: data-12C22890 (this message is harmless)
+Non platform assembly: data-12C22890 (this message is harmless)
+Non platform assembly: data-12C22890 (this message is harmless)
+Non platform assembly: data-12C22890 (this message is harmless)
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WP8Support/UnityEditor.WP8.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.Metro.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll
+Registered in 0.017506 seconds.
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.6.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.6.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\cssparse.net.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\cssparse.net.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\DeJson.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\DeJson.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\HappyFunTimes.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\HappyFunTimes.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\websocket-sharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\WP8Support\UnityEditor.WP8.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\WP8Support\UnityEditor.WP8.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.Metro.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.Metro.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\BlackBerryPlayer\UnityEditor.BB10.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\BlackBerryPlayer\UnityEditor.BB10.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\Mono.Security.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.415 seconds
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 5
+- starting compile Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+- Finished compile Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 5
+- starting compile Library/ScriptAssemblies/Assembly-UnityScript.dll, for buildtarget 5
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-UnityScript.dll
+Reloading assemblies after successful script compilation.
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Registering custom dll's ...
+Non platform assembly: data-1210DE08 (this message is harmless)
+Non platform assembly: data-124FA640 (this message is harmless)
+Non platform assembly: data-125FEF10 (this message is harmless)
+Non platform assembly: data-12DD8038 (this message is harmless)
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/WP8Support/UnityEditor.WP8.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.Metro.Extensions.dll
+Register platform support module: C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/BlackBerryPlayer/UnityEditor.BB10.Extensions.dll
+Registered in 0.016434 seconds.
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-CSharp.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Library\ScriptAssemblies\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.6.0\Unity.PackageManager.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PackageManager\Unity\PackageManager\4.6.0\Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\Editor\UnityEditor.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\4.6.0\Editor\UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\cssparse.net.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\cssparse.net.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\DeJson.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\DeJson.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\HappyFunTimes.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\HappyFunTimes.dll into Unity Child Domain
+Non platform assembly: C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\Assets\Plugins\websocket-sharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\WP8Support\UnityEditor.WP8.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\WP8Support\UnityEditor.WP8.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.Metro.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.Metro.Extensions.dll into Unity Child Domain
+Non platform assembly: C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\BlackBerryPlayer\UnityEditor.BB10.Extensions.dll (this message is harmless)
+Loading C:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\BlackBerryPlayer\UnityEditor.BB10.Extensions.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v4.6.0 for Unity v4.6.0
+Setting GUISystem v4.6.0 for Unity v4.6.0b18 to C:/Program Files (x86)/Unity/Editor/Data\UnityExtensions\Unity\GUISystem\4.6.0
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Managed\ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+System memory in use before: 5.6 MB.
+Unloading 37 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 3.2 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 98.
+Total: 4.831268 ms (FindLiveObjects: 0.012829 ms CreateObjectMapping: 0.003299 ms MarkObjects: 0.451969 ms  DeleteObjects: 0.377190 ms)
+
+Validating Project structure ... 0.003875 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.005980 seconds (Nothing changed)
+Platform assembly: C:\Program Files (x86)\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
+System memory in use before: 6.2 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 4.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 662.
+Total: 3.719123 ms (FindLiveObjects: 0.028958 ms CreateObjectMapping: 0.017228 ms MarkObjects: 0.545075 ms  DeleteObjects: 0.362528 ms)
+
+building x86 os x player!
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 17.511332 ms] 
+
+----- Total AssetImport time: 0.051731s, AssetImport time: 0.036271s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+DisplayProgressbar: Building Player
+building target 4
+Native extension for build target not found
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 4
+- starting compile Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll, for buildtarget 4
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+- Finished compile Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 4
+- starting compile Library/ScriptAssemblies/Assembly-UnityScript.dll, for buildtarget 4
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-UnityScript.dll
+Native extension for build target not found
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006132 seconds (Nothing changed)
+Determining assets that need to be reimported for target platform ... 0.009671 seconds.
+
+----- Total AssetImport time: 0.009778s, AssetImport time: 0.000000s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+
+
+Packing sprites:
+- Skipping packing - Sprite Packer is off.
+System memory in use before: 6.9 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 5.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 667.
+Total: 4.103279 ms (FindLiveObjects: 0.039221 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.936195 ms  DeleteObjects: 0.352631 ms)
+
+
+
+Mono dependencies included in the build
+Dependency assembly - DeJson.dll
+Dependency assembly - HappyFunTimes.dll
+Dependency assembly - cssparse.net.dll
+Dependency assembly - websocket-sharp.dll
+Dependency assembly - Boo.Lang.dll
+Dependency assembly - Mono.Security.dll
+Dependency assembly - System.Core.dll
+Dependency assembly - System.dll
+Dependency assembly - UnityScript.Lang.dll
+Dependency assembly - mscorlib.dll
+Dependency assembly - UnityEngine.UI.dll
+Dependency assembly - Assembly-CSharp-firstpass.dll
+Dependency assembly - Assembly-CSharp.dll
+Dependency assembly - Assembly-UnityScript-firstpass.dll
+Dependency assembly - Assembly-UnityScript.dll
+
+System memory in use before: 9.9 MB.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 7.2 MB.
+
+Unloading 321 unused Assets to reduce memory usage. Loaded Objects now: 347.
+Total: 4.542052 ms (FindLiveObjects: 0.031890 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.967353 ms  DeleteObjects: 0.504020 ms)
+
+System memory in use before: 7.2 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 7.2 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 353.
+Total: 1.331714 ms (FindLiveObjects: 0.025292 ms CreateObjectMapping: 0.003665 ms MarkObjects: 0.834658 ms  DeleteObjects: 0.003299 ms)
+
+System memory in use before: 8.2 MB.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 7.7 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 670.
+Total: 2.382643 ms (FindLiveObjects: 0.030057 ms CreateObjectMapping: 0.010263 ms MarkObjects: 1.004376 ms  DeleteObjects: 0.003665 ms)
+
+System memory in use before: 119.3 MB.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.5 MB.
+
+Unloading 419 unused Assets to reduce memory usage. Loaded Objects now: 363.
+Total: 47.950890 ms (FindLiveObjects: 0.030424 ms CreateObjectMapping: 0.011363 ms MarkObjects: 0.933629 ms  DeleteObjects: 42.562447 ms)
+
+System memory in use before: 17.6 MB.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.6 MB.
+
+Unloading 321 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 5.562923 ms (FindLiveObjects: 0.068913 ms CreateObjectMapping: 0.021260 ms MarkObjects: 0.992646 ms  DeleteObjects: 0.625718 ms)
+
+
+Textures      0.0 kb	 0.0% 
+Meshes        379.1 kb	 7.4% 
+Animations    67.6 kb	 1.3% 
+Sounds        0.0 kb	 0.0% 
+Shaders       0.0 kb	 0.0% 
+Other Assets  43.8 kb	 0.9% 
+Levels        10.6 kb	 0.2% 
+Scripts       451.0 kb	 8.8% 
+Included DLLs 4.1 mb	 81.2% 
+File headers  12.6 kb	 0.2% 
+Complete size 5.0 mb	 100.0% 
+
+Used Assets, sorted by uncompressed size:
+ 403.3 kb	 7.9% Assets/Models/monkey.fbx
+ 34.7 kb	 0.7% Assets/Models/monkey@idle.fbx
+ 32.9 kb	 0.6% Assets/Models/monkey@walk.fbx
+ 16.4 kb	 0.3% Assets/Examples/Prefabs/monkey.prefab
+ 2.5 kb	 0.0% Assets/Models/monkeyCtrlr.controller
+ 0.2 kb	 0.0% Assets/Plugins/HappyFunTimes.dll
+ 0.1 kb	 0.0% Built-in MonoScript: HorizontalOrVerticalLayoutGroup
+ 0.1 kb	 0.0% Assets/Examples/Scripts/ExampleCharacterMultiPlayerCamera.js
+ 0.1 kb	 0.0% Built-in MonoScript: StandaloneInputModule
+ 0.1 kb	 0.0% Built-in Material: Default-Diffuse
+ 0.1 kb	 0.0% Built-in MonoScript: PointerInputModule
+ 0.1 kb	 0.0% Built-in MonoScript: Physics2DRaycaster
+ 0.1 kb	 0.0% Built-in MonoScript: HorizontalLayoutGroup
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonController.js
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/PlatformInputController.js
+ 0.1 kb	 0.0% Assets/Models/Materials/mustacheMat.mat
+ 0.1 kb	 0.0% Assets/Examples/Scripts/Example3rdPersonController.js
+ 0.1 kb	 0.0% Assets/Models/Materials/lambert3.mat
+ 0.1 kb	 0.0% Assets/Models/Materials/lambert2.mat
+ 0.1 kb	 0.0% Assets/Models/Materials/lambert1.mat
+ 0.1 kb	 0.0% Assets/Models/Materials/blinn1.mat
+ 0.1 kb	 0.0% Built-in MonoScript: VerticalLayoutGroup
+ 0.1 kb	 0.0% Built-in MonoScript: TouchInputModule
+ 0.1 kb	 0.0% Built-in MonoScript: ReferenceResolution
+ 0.1 kb	 0.0% Built-in MonoScript: PhysicsRaycaster
+ 0.1 kb	 0.0% Built-in MonoScript: PhysicalResolution
+ 0.1 kb	 0.0% Built-in MonoScript: ContentSizeFitter
+ 0.1 kb	 0.0% Built-in MonoScript: BaseRaycaster
+ 0.1 kb	 0.0% Built-in MonoScript: BaseInputModule
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/ThirdPersonCamera.js
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js
+ 0.1 kb	 0.0% Built-in MonoScript: UIBehaviour
+ 0.1 kb	 0.0% Built-in MonoScript: PositionAsUV1
+ 0.1 kb	 0.0% Built-in MonoScript: MaskableGraphic
+ 0.1 kb	 0.0% Built-in MonoScript: LayoutElement
+ 0.1 kb	 0.0% Built-in MonoScript: GridLayoutGroup
+ 0.1 kb	 0.0% Built-in MonoScript: GraphicRaycaster
+ 0.1 kb	 0.0% Built-in MonoScript: EventTrigger
+ 0.1 kb	 0.0% Built-in MonoScript: EventSystem
+ 0.1 kb	 0.0% Built-in MonoScript: BaseVertexEffect
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js
+ 0.1 kb	 0.0% Built-in MonoScript: ToggleGroup
+ 0.1 kb	 0.0% Built-in MonoScript: Selectable
+ 0.1 kb	 0.0% Built-in MonoScript: Scrollbar
+ 0.1 kb	 0.0% Built-in MonoScript: ScrollRect
+ 0.1 kb	 0.0% Built-in MonoScript: LayoutGroup
+ 0.1 kb	 0.0% Built-in MonoScript: InputField
+ 0.1 kb	 0.0% Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs
+ 0.1 kb	 0.0% Built-in MonoScript: Toggle
+ 0.1 kb	 0.0% Built-in MonoScript: Slider
+ 0.1 kb	 0.0% Built-in MonoScript: Shadow
+ 0.1 kb	 0.0% Built-in MonoScript: RawImage
+ 0.1 kb	 0.0% Built-in MonoScript: Outline
+ 0.1 kb	 0.0% Built-in MonoScript: Image
+ 0.1 kb	 0.0% Built-in MonoScript: Graphic
+ 0.1 kb	 0.0% Built-in MonoScript: Button
+ 0.1 kb	 0.0% Assets/Examples/Scripts/DPadEmuJS.js
+ 0.1 kb	 0.0% Built-in MonoScript: Text
+ 0.1 kb	 0.0% Built-in MonoScript: Mask
+ 0.1 kb	 0.0% Assets/Examples/Scripts/Player.cs
+System memory in use before: 15.5 MB.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.9 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 2.616142 ms (FindLiveObjects: 0.032257 ms CreateObjectMapping: 0.011363 ms MarkObjects: 1.051295 ms  DeleteObjects: 0.003665 ms)
+
+System memory in use before: 14.9 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.9 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 1.656487 ms (FindLiveObjects: 0.058649 ms CreateObjectMapping: 0.010630 ms MarkObjects: 1.049829 ms  DeleteObjects: 0.004398 ms)
+
+- starting compile Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll, for buildtarget 4
+- starting compile Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll, for buildtarget 4
+System memory in use before: 15.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 686.
+Total: 2.269743 ms (FindLiveObjects: 0.055350 ms CreateObjectMapping: 0.011363 ms MarkObjects: 1.075122 ms  DeleteObjects: 0.413113 ms)
+
+
+*** Completed 'Build.Player.MacStandaloneSupport' in 4 seconds
+
+Batchmode quit successfully invoked - shutting down!
+System memory in use before: 14.9 MB.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 14.4 MB.
+
+Unloading 307 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 1.971362 ms (FindLiveObjects: 0.041787 ms CreateObjectMapping: 0.009530 ms MarkObjects: 1.046163 ms  DeleteObjects: 0.298013 ms)
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007804 seconds (Nothing changed)
+Cleanup mono
+Exiting batchmode successfully now!
+debugger-agent: Unable to listen on 760

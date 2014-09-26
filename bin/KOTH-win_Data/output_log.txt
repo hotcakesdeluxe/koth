@@ -1,0 +1,43 @@
+Initialize engine version: 4.6.0b18 (c6d68b07d87a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 870M     (ID=0x1199)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\cssparse.net.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\cssparse.net.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\DeJson.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\DeJson.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\HappyFunTimes.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\HappyFunTimes.dll into Unity Child Domain
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\websocket-sharp.dll (this message is harmless)
+Loading C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\websocket-sharp.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Stephen\Documents\GitHub\koth\bin\KOTH-win_Data\Managed\Mono.Security.dll (this message is harmless)
+socket opened
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+connection closed
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
