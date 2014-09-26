@@ -18,7 +18,7 @@ class Player : MonoBehaviour
 	};
 	[CmdName("jump")]
 	private class MessageJump : MessageCmdData {
-		public bool jump = false;
+		public bool pressed = false;
 	};
 	[CmdName("turn")]
 	private class MessageTurn : MessageCmdData {
@@ -52,11 +52,11 @@ class Player : MonoBehaviour
 		print ("yoooo");
 	}
 	private void OnJump(MessageJump data) {
-		print (data.jump);
-		if (data.jump == true) {
+		print (data.pressed);
+		if (data.pressed == true) {
 						print ("yoooo");
 				}
-		if (data.jump == false) {
+		if (data.pressed == false) {
 			print ("noooo");
 		}
 	}
